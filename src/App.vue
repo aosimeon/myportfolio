@@ -11,7 +11,7 @@
         <h1 class="typing big-text"></h1>
       </vue-typed-js>
       <vue-typed-js :strings="[name]" :showCursor="false" @onComplete="showMain = true">
-        <p class="typing medium-text"></p>
+        <h2 class="typing medium-text"></h2>
       </vue-typed-js>
       <transition name="fade">
         <div v-if="showMain" v-html="main"></div>
@@ -92,12 +92,12 @@ body {
   margin-bottom: 2em;
 
   .container {
-    width: 85%;
+    width: 90%;
     margin: auto;
 
     p {
       max-width: 26em;
-      font-size: 1.6em;
+      font-size: 1.7em;
       margin: 15px 0;
       line-height: 1.4;
 
@@ -165,7 +165,7 @@ body {
 h1,
 h2 {
   font-weight: normal;
-  font-size: 4.5em;
+  font-size: 4em;
 }
 
 a {
@@ -174,13 +174,13 @@ a {
 }
 
 .big-text {
-  font-size: 4.5em;
+  font-size: 4em;
   font-weight: bold;
-  margin: 15px 0;
+  margin: 5px 0;
 }
 
 .medium-text {
-  font-size: 1.9em;
+  font-size: 1.6em;
   line-height: 1.4;
   font-weight: bold;
 }
