@@ -31,7 +31,7 @@ export default {
     return {
       greeting: "Hello.",
       name:
-        "<span class='medium-text'>^1000My name is Amoo&nbsp;Olusola&nbsp;Simeon</span>",
+        "<span class='medium-text'>^1000My name is Amoo&nbsp;Olusola Simeon</span>",
       main: `
         <p>
           I build apps that work on the web by day and tinker with blockchain technology by night. In my free time, I recuperate. I am based in Ibadan, Nigeria, a Yoruba boy to be precise.
