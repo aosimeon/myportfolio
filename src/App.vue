@@ -97,7 +97,7 @@ body {
 
     p {
       max-width: 26em;
-      font-size: 1.6em;
+      font-size: 1.4em;
       margin: 15px 0;
       line-height: 1.4;
 
@@ -183,7 +183,6 @@ a {
   font-size: 2em;
   line-height: 1.4;
   font-weight: bold;
-  position: relative;
 }
 
 .fade-enter-active,
