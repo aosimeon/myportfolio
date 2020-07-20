@@ -79,7 +79,7 @@ export default {
 @import url("https://fonts.googleapis.com/css2?family=Mulish:wght@300;400;500;600;700&display=swap");
 
 body {
-  background-color: #f5f7ff;
+  background-color: #fffcee;
 }
 #app {
   font-family: "Mulish", sans-serif;
