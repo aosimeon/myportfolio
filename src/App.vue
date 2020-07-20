@@ -174,14 +174,14 @@ a {
 }
 
 .big-text {
-  font-size: 5em;
+  font-size: 4.7em;
   font-weight: bold;
   margin: 20px 0;
 }
 
 .medium-text {
-  font-size: 2.2em;
-  line-height: 30px;
+  font-size: 2em;
+  line-height: 1.4;
   font-weight: bold;
   position: relative;
 }
