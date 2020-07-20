@@ -31,7 +31,7 @@ export default {
     return {
       greeting: "Hello.",
       name:
-        "<span class='medium-text'>^1000My name is Amoo&nbsp;Olusola Simeon</span>",
+        "<span class='medium-text'>^1000My name is Amoo&nbsp;Olusola Simeon.</span>",
       main: `
         <p>
           I build apps that work on the web by day and tinker with blockchain technology by night. In my free time, I recuperate. I am based in Ibadan, Nigeria, a Yoruba boy to be precise.
@@ -97,7 +97,7 @@ body {
 
     p {
       max-width: 26em;
-      font-size: 1.4em;
+      font-size: 1.6em;
       margin: 15px 0;
       line-height: 1.4;
 
@@ -105,8 +105,8 @@ body {
         display: inline-block;
         padding: 0 1em;
         margin: 0.5em 0.1em;
-        height: 35px;
-        line-height: 35px;
+        height: 30px;
+        line-height: 30px;
         background: rgb(255, 218, 51);
         background: linear-gradient(
           207deg,
@@ -114,7 +114,7 @@ body {
           rgba(255, 209, 0, 1) 100%
         );
         font-weight: 500;
-        font-size: 15px;
+        font-size: 0.6em;
         font-style: italic;
         letter-spacing: 0.07em;
         border-radius: 50px;
@@ -124,8 +124,8 @@ body {
         display: inline-block;
         padding: 0 1em;
         margin: 0.5em 0.1em;
-        height: 35px;
-        line-height: 35px;
+        height: 30px;
+        line-height: 30px;
         background: rgb(255, 218, 51);
         background: linear-gradient(
           207deg,
@@ -133,7 +133,7 @@ body {
           rgba(255, 209, 0, 1) 100%
         );
         font-weight: 500;
-        font-size: 15px;
+        font-size: 0.6em;
         font-style: italic;
         letter-spacing: 0.07em;
         border-radius: 50px;
@@ -143,8 +143,8 @@ body {
         display: inline-block;
         padding: 0 20px;
         margin: 0.5em 0.1em;
-        height: 35px;
-        line-height: 35px;
+        height: 30px;
+        line-height: 30px;
         background: rgb(255, 218, 51);
         background: linear-gradient(
           207deg,
@@ -152,7 +152,7 @@ body {
           rgba(255, 209, 0, 1) 100%
         );
         font-weight: 500;
-        font-size: 15px;
+        font-size: 0.6em;
         font-style: italic;
         letter-spacing: 0.07em;
         border-radius: 20px;
@@ -174,13 +174,13 @@ a {
 }
 
 .big-text {
-  font-size: 4.7em;
+  font-size: 4.5em;
   font-weight: bold;
-  margin: 20px 0;
+  margin: 15px 0;
 }
 
 .medium-text {
-  font-size: 2em;
+  font-size: 1.9em;
   line-height: 1.4;
   font-weight: bold;
 }
