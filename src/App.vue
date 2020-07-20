@@ -83,7 +83,7 @@ body {
 }
 #app {
   font-family: "Mulish", sans-serif;
-  font-size: calc(9px + 0.2vw);
+  font-size: calc(10px + 0.2vw);
   font-weight: 300;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -95,7 +95,7 @@ body {
     margin: auto;
 
     p {
-      max-width: 27em;
+      max-width: 40em;
       font-size: 1.8em;
       margin: 15px 0;
       line-height: 1.5em;
