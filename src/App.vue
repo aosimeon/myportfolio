@@ -88,7 +88,7 @@ body {
 }
 #app {
   font-family: "Mulish", sans-serif;
-  font-size: calc(10px + 0.2vw);
+  font-size: calc(11px + 0.2vw);
   font-weight: 300;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -100,10 +100,10 @@ body {
     margin: auto;
 
     p {
-      max-width: 40em;
+      max-width: 27em;
       font-size: 1.8em;
       margin: 15px 0;
-      line-height: 1.5em;
+      line-height: 35px;
 
       .language-tag {
         display: inline-block;
@@ -118,7 +118,7 @@ body {
           rgba(255, 209, 0, 1) 100%
         );
         font-weight: 500;
-        font-size: 0.65em;
+        font-size: 15px;
         font-style: italic;
         letter-spacing: 0.07em;
         border-radius: 50px;
@@ -137,7 +137,7 @@ body {
           rgba(255, 209, 0, 1) 100%
         );
         font-weight: 500;
-        font-size: 0.65em;
+        font-size: 15px;
         font-style: italic;
         letter-spacing: 0.07em;
         border-radius: 50px;
@@ -156,7 +156,7 @@ body {
           rgba(255, 209, 0, 1) 100%
         );
         font-weight: 500;
-        font-size: 0.65em;
+        font-size: 15px;
         font-style: italic;
         letter-spacing: 0.07em;
         border-radius: 20px;
@@ -173,7 +173,7 @@ h2 {
 }
 
 a {
-  color: #667eeb;
+  color: #887000;
   font-style: italic;
 }
 
@@ -184,8 +184,8 @@ a {
 }
 
 .medium-text {
-  font-size: calc(1.6em + 0.1vw);
-  line-height: 1.5em;
+  font-size: 35px;
+  line-height: 30px;
   font-weight: bold;
   position: relative;
 }
