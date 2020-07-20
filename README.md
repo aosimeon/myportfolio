@@ -1,4 +1,4 @@
-# my-portfolio
+# me
 
 > My personal website
 [aosimeon.github.io](http://aosimeon.github.io)
