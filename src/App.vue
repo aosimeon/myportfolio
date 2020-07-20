@@ -79,31 +79,27 @@ export default {
 @import url("https://fonts.googleapis.com/css2?family=Mulish:wght@300;400;500;600;700&display=swap");
 
 body {
-  background: rgb(255, 252, 238);
-  background: linear-gradient(
-    207deg,
-    rgba(255, 252, 238, 1) 20%,
-    rgba(255, 255, 255, 1) 90%
-  );
+  background: #f7f7f7;
+  font-size: calc(10px + 0.33vw);
 }
 #app {
   font-family: "Mulish", sans-serif;
-  font-size: calc(11px + 0.2vw);
+
   font-weight: 300;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   color: #000;
-  margin-bottom: 3em;
+  margin-bottom: 2em;
 
   .container {
     width: 85%;
     margin: auto;
 
     p {
-      max-width: 27em;
-      font-size: 1.8em;
+      max-width: 26em;
+      font-size: 1.6em;
       margin: 15px 0;
-      line-height: 35px;
+      line-height: 1.4;
 
       .language-tag {
         display: inline-block;
@@ -169,7 +165,7 @@ body {
 h1,
 h2 {
   font-weight: normal;
-  font-size: 3em;
+  font-size: 4.5em;
 }
 
 a {
@@ -184,7 +180,7 @@ a {
 }
 
 .medium-text {
-  font-size: 35px;
+  font-size: 2.2em;
   line-height: 30px;
   font-weight: bold;
   position: relative;
