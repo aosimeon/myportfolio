@@ -37,7 +37,7 @@ export default {
           I build apps that work on the web by day and tinker with blockchain tech by night. In my free time, I make music. I am based in Ibadan, Nigeria, a Yoruba boy to be precise.
         </p>
         <p>
-          If you look at me, I will smile back, it's not my fault. I just love smiling a lot :)...lol. I currently write at <a href="https://isabicode.wordpress.com/" target="_blank">iSabiCode</a>, and  <a href="https://aosimeon.wordpress.com/" target="_blank">my personal blog</a>.
+          If you look at me, I will smile back. It's not my fault, I just love smiling a lot :)...lol. I currently write at <a href="https://isabicode.wordpress.com/" target="_blank">iSabiCode</a>, and  <a href="https://aosimeon.wordpress.com/" target="_blank">my personal blog</a>.
         </p>
         <p>
           What computer languages do I speak?<br>
