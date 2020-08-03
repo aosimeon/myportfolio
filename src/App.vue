@@ -110,8 +110,8 @@ body {
         margin: 0.5em 0.1em;
         height: 30px;
         line-height: 30px;
-        background: rgb(255,218,51);
-        background: linear-gradient(90deg, rgba(255,218,51,1) 20%, rgba(221,68,0,1) 250%);
+        background: rgb(255,209,0);
+        background: linear-gradient(90deg, rgba(255,209,0,1) 0%, rgba(255,215,34,1) 100%);
         font-weight: 500;
         font-size: 0.6em;
         font-style: italic;
@@ -125,8 +125,8 @@ body {
         margin: 0.5em 0.1em;
         height: 30px;
         line-height: 30px;
-        background: rgb(255,218,51);
-        background: linear-gradient(90deg, rgba(255,218,51,1) 20%, rgba(221,68,0,1) 250%);
+        background: rgb(255,209,0);
+        background: linear-gradient(90deg, rgba(255,209,0,1) 0%, rgba(255,215,34,1) 100%);
         font-weight: 500;
         font-size: 0.6em;
         font-style: italic;
@@ -140,8 +140,8 @@ body {
         margin: 0.5em 0.1em;
         height: 30px;
         line-height: 30px;
-        background: rgb(255,218,51);
-        background: linear-gradient(90deg, rgba(255,218,51,1) 20%, rgba(221,68,0,1) 250%);
+        background: rgb(255,209,0);
+        background: linear-gradient(90deg, rgba(255,209,0,1) 0%, rgba(255,215,34,1) 100%);
         font-weight: 500;
         font-size: 0.6em;
         font-style: italic;
