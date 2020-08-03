@@ -34,25 +34,25 @@ export default {
         "<span class='medium-text'>^1000My name is Amoo&nbsp;Olusola Simeon.</span>",
       main: `
         <p>
-          I build apps that work on the web by day and tinker with blockchain technology by night. In my free time, I recuperate. I am based in Ibadan, Nigeria, a Yoruba boy to be precise.
+          I build apps that work on the web by day and tinker with blockchain tech by night. In my free time, I make music. I am based in Ibadan, Nigeria, a Yoruba boy to be precise.
         </p>
         <p>
-          I love smiling a lot :). People say I swim like a fish, but I strongly disagree...lol.
+          If you look at me, I will smile back, it's not my fault. I just love smiling a lot :)...lol. I currently write at <a href="https://isabicode.wordpress.com/" target="_blank">iSabiCode</a>, and  <a href="https://aosimeon.wordpress.com/" target="_blank">my personal blog</a>.
         </p>
         <p>
           What computer languages do I speak?<br>
           <span class="language-tag">HTML</span>
           <span class="language-tag">CSS/SCSS</span>
           <span class="language-tag">JavaScript</span>
-          <span class="language-tag">Python</span>
           <span class="language-tag">GoLang</span>
           <span class="language-tag">PHP</span>
+          <span class="language-tag">Rust</span>
+          <span class="language-tag">Dart</span>
         </p>
         <p>
           What frameworks do I vibe with?<br>
           <span class="framework-tag">Express(NodeJs)</span>
           <span class="framework-tag">Vue(JavaScript)</span>
-          <span class="framework-tag">Flask(Python)</span>
           <span class="framework-tag">Laravel(PHP)</span>
         </p>
         <p>
@@ -61,11 +61,14 @@ export default {
           <span class="tool-tag">Inkscape</span>
           <span class="tool-tag">Gimp</span>
         </p>
-        <p>
+        <p class="contact">
           You can reach me via
-          <a href="https://twitter.com/aosimeon" target="_blank">twitter</a>
-          <a href="https://www.instagram.com/ao_simeon" target="_blank"">instagram</a>
-          <a href="https://github.com/aosimeon" target="_blank">github</a>
+          <a href="https://twitter.com/aosimeon" target="_blank"><i class="fa fa-twitter-square" aria-hidden="true"></i>
+</a>
+          <a href="https://www.instagram.com/ao_simeon" target="_blank""><i class="fa fa-instagram" aria-hidden="true"></i>
+</a>
+          <a href="https://github.com/aosimeon" target="_blank"><i class="fa fa-github-square" aria-hidden="true"></i>
+</a>
         </p>
         `,
       showMain: false
@@ -107,12 +110,8 @@ body {
         margin: 0.5em 0.1em;
         height: 30px;
         line-height: 30px;
-        background: rgb(255, 218, 51);
-        background: linear-gradient(
-          207deg,
-          rgba(255, 218, 51, 1) 4%,
-          rgba(255, 209, 0, 1) 100%
-        );
+        background: rgb(255,218,51);
+        background: linear-gradient(90deg, rgba(255,218,51,1) 20%, rgba(221,68,0,1) 250%);
         font-weight: 500;
         font-size: 0.6em;
         font-style: italic;
@@ -126,12 +125,8 @@ body {
         margin: 0.5em 0.1em;
         height: 30px;
         line-height: 30px;
-        background: rgb(255, 218, 51);
-        background: linear-gradient(
-          207deg,
-          rgba(255, 218, 51, 1) 4%,
-          rgba(255, 209, 0, 1) 100%
-        );
+        background: rgb(255,218,51);
+        background: linear-gradient(90deg, rgba(255,218,51,1) 20%, rgba(221,68,0,1) 250%);
         font-weight: 500;
         font-size: 0.6em;
         font-style: italic;
@@ -145,12 +140,8 @@ body {
         margin: 0.5em 0.1em;
         height: 30px;
         line-height: 30px;
-        background: rgb(255, 218, 51);
-        background: linear-gradient(
-          207deg,
-          rgba(255, 218, 51, 1) 4%,
-          rgba(255, 209, 0, 1) 100%
-        );
+        background: rgb(255,218,51);
+        background: linear-gradient(90deg, rgba(255,218,51,1) 20%, rgba(221,68,0,1) 250%);
         font-weight: 500;
         font-size: 0.6em;
         font-style: italic;
@@ -169,8 +160,17 @@ h2 {
 }
 
 a {
-  color: #887000;
+  color: #d40;
   font-style: italic;
+}
+
+p.contact {
+  a {
+    text-decoration: none;
+    color: #d40;
+    font-size: 1.5em;
+    padding: 5px;
+  }
 }
 
 .big-text {
