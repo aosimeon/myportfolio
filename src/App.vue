@@ -34,10 +34,10 @@ export default {
         "<span class='medium-text'>^1000My name is Amoo&nbsp;Olusola Simeon.</span>",
       main: `
         <p>
-          I build apps that work on the web by day and tinker with blockchain tech by night. In my free time, I make music. I am based in Ibadan, Nigeria, a Yoruba boy to be precise.
+          I build apps that work on the web by day and tinker with blockchain tech by night <i class="em em-nerd_face" aria-role="presentation" aria-label="NERD FACE"></i>. In my free time, I make music. I am based in Ibadan, Nigeria, a Yoruba boy to be precise.
         </p>
         <p>
-          If you look at me, I will smile back. It's not my fault, I just love smiling a lot :)...lol. I currently write at <a href="https://isabicode.wordpress.com/" target="_blank">iSabiCode</a>, and  <a href="https://aosimeon.wordpress.com/" target="_blank">my personal blog</a>.
+          If you look at me, I will smile back <i class="em em-slightly_smiling_face" aria-role="presentation" aria-label="SLIGHTLY SMILING FACE"></i>. It's not my fault, I just love smiling a lot <i class="em em-grinning" aria-role="presentation" aria-label="GRINNING FACE"></i>. I currently write at <a href="https://isabicode.wordpress.com/" target="_blank">iSabiCode</a>, and  <a href="https://aosimeon.wordpress.com/" target="_blank">my personal blog</a>.
         </p>
         <p>
           What computer languages do I speak?<br>
@@ -47,7 +47,6 @@ export default {
           <span class="language-tag">GoLang</span>
           <span class="language-tag">PHP</span>
           <span class="language-tag">Rust</span>
-          <span class="language-tag">Dart</span>
         </p>
         <p>
           What frameworks do I vibe with?<br>
@@ -103,6 +102,10 @@ body {
       font-size: 1.7em;
       margin: 15px 0;
       line-height: 1.4;
+
+      i {
+        font-size: 0.65em;
+      }
 
       .language-tag {
         display: inline-block;
