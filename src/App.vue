@@ -44,8 +44,6 @@ export default {
           <span class="language-tag">HTML</span>
           <span class="language-tag">CSS/SCSS</span>
           <span class="language-tag">JavaScript</span>
-          <span class="language-tag">GoLang</span>
-          <span class="language-tag">Python</span>
           <span class="language-tag">Rust</span>
         </p>
         <p>
@@ -53,7 +51,6 @@ export default {
           <span class="framework-tag">Express (NodeJs)</span>
           <span class="framework-tag">Vue (JavaScript)</span>
           <span class="framework-tag">React (JavaScript)</span>
-          <span class="framework-tag">Flask (Python)</span>
         </p>
         <p>
           What tools do I use? <br>
