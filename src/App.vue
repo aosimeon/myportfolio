@@ -45,13 +45,13 @@ export default {
           <span class="language-tag">CSS/SCSS</span>
           <span class="language-tag">JavaScript</span>
           <span class="language-tag">Rust</span>
+          <span class="language-tag">GoLang</span>
           <span class="language-tag">Solidity</span>
         </p>
         <p>
           What frameworks do I vibe with?<br>
           <span class="framework-tag">Express (NodeJs)</span>
           <span class="framework-tag">Vue (JavaScript)</span>
-          <span class="framework-tag">React (JavaScript)</span>
         </p>
         <p>
           What tools do I use? <br>
