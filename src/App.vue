@@ -45,7 +45,6 @@ export default {
           <span class="language-tag">CSS/SCSS</span>
           <span class="language-tag">JavaScript</span>
           <span class="language-tag">Rust</span>
-          <span class="language-tag">Go</span>
           <span class="language-tag">Solidity</span>
         </p>
         <p>
