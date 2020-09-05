@@ -43,7 +43,7 @@ export default {
           What computer languages do I speak?<br>
           <span class="language-tag">HTML</span>
           <span class="language-tag">CSS/SCSS</span>
-          <span class="language-tag">JavaScript</span>
+          <span class="language-tag">JS/TS</span>
           <span class="language-tag">Rust</span>
           <span class="language-tag">Python</span>
           <span class="language-tag">Solidity</span>
