@@ -34,10 +34,10 @@ export default {
         "<span class='medium-text'>^1000My name is Amoo&nbsp;Olusola Simeon.</span>",
       main: `
         <p>
-          I employ my rare and precious mental facilities to tear the mask of data, staring at the face of bytes...haha, Dont be scared. I build <strong>full stack web apps</strong> with <strong>React</strong> / <strong>Vue</strong> on the frontend, and <strong>NodeJs</strong> on the backend. I also play with <strong>Rust</strong> / <strong>Solidity</strong> when building <strong>Decentralized Apps</strong> <i class="em em-nerd_face" aria-role="presentation" aria-label="NERD FACE"></i>. In my free time, I make music. I am based in <strong>Ibadan, Nigeria</strong>, a <strong>Yoruba</strong> boy to be precise.
+          I employ my rare and precious mental facilities to tear the mask of data, staring at the face of bytes...haha, Dont be scared. I build <strong>full stack web apps</strong> with <strong>Vue</strong> on the frontend, and <strong>NodeJs</strong> on the backend. I also play with <strong>Rust</strong> / <strong>Solidity</strong> when building <strong>Decentralized Apps</strong> <i class="em em-nerd_face" aria-role="presentation" aria-label="NERD FACE"></i>. In my free time, I make music. I am based in <strong>Ibadan, Nigeria</strong>, a <strong>Yoruba</strong> boy to be precise.
         </p>
         <p>
-          If you look at me, I will smile back <i class="em em-slightly_smiling_face" aria-role="presentation" aria-label="SLIGHTLY SMILING FACE"></i>. It's not my fault, I just love smiling a lot <i class="em em-grinning" aria-role="presentation" aria-label="GRINNING FACE"></i>. I currently write at <a href="https://isabicode.wordpress.com/" target="_blank">iSabiCode</a>, and  <a href="https://aosimeon.wordpress.com/" target="_blank">my personal blog</a>.
+          If you look at me, I will smile back <i class="em em-slightly_smiling_face" aria-role="presentation" aria-label="SLIGHTLY SMILING FACE"></i>. It's not my fault, I just love smiling a lot <i class="em em-grinning" aria-role="presentation" aria-label="GRINNING FACE"></i>. I currently write at <a href="https://isabicode.wordpress.com/" target="_blank">iSabiCode</a>.
         </p>
         <p>
           What computer languages do I speak?<br>
@@ -46,12 +46,12 @@ export default {
           <span class="language-tag">JS/TS</span>
           <span class="language-tag">Rust</span>
           <span class="language-tag">Solidity</span>
+          <span class="language-tag">Python</span>
         </p>
         <p>
           What frameworks do I vibe with?<br>
           <span class="framework-tag">Express (NodeJs)</span>
           <span class="framework-tag">Vue (JavaScript)</span>
-          <span class="framework-tag">React (JavaScript)</span>
         </p>
         <p>
           What tools do I use? <br>

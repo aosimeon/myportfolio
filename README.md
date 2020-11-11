@@ -1,7 +1,7 @@
-# me
+# my portfolio
 
 > My personal website
-[aosimeon.github.io](http://aosimeon.github.io)
+[thewhitechild.me](http://thewhitechild.me)
 
 
 ## Build Setup
