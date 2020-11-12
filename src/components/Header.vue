@@ -84,7 +84,7 @@ export default {
         stroke-width: 0.3;
         fill: transparent;
 
-        animation: animate 8s forwards;
+        animation: animate 3s forwards;
         stroke-dasharray: 100;
         stroke-dashoffset: 100;
       }
