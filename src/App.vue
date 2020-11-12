@@ -10,7 +10,7 @@
       >
         <h1 class="typing big-text"></h1>
       </vue-typed-js>
-      <vue-typed-js :strings="[name]" :showCursor="false" @onComplete="showMain = true">
+      <vue-typed-js :strings="[name]" :showCursor="false" :typeSpeed="70" @onComplete="showMain = true">
         <h2 class="typing medium-text"></h2>
       </vue-typed-js>
       <transition name="fade">
@@ -157,6 +157,7 @@ body {
 
 h1,
 h2 {
+  font-family: 'Source Code Pro', monospace;
   font-weight: normal;
   font-size: 4em;
 }
@@ -194,6 +195,7 @@ p.contact {
 .fade-enter-active,
 .fade-leave-active {
   transition: opacity 1.2s;
+  transition-delay: 0.5s;
 }
 .fade-enter, .fade-leave-to /* .fade-leave-active below version 2.1.8 */ {
   opacity: 0;
