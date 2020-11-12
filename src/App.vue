@@ -196,7 +196,7 @@ p.contact {
 .fade-enter-active,
 .fade-leave-active {
   transition: opacity 1.2s;
-  transition-delay: 0.5s;
+  transition-delay: 0.4s;
 }
 .fade-enter, .fade-leave-to /* .fade-leave-active below version 2.1.8 */ {
   opacity: 0;
