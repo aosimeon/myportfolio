@@ -11,7 +11,7 @@
       >
         <h1 class="typing big-text"></h1>
       </vue-typed-js>
-      <vue-typed-js :strings="[name]" :showCursor="false" :typeSpeed="70" :startDelay="1000" @onComplete="showMain = true">
+      <vue-typed-js :strings="[name]" :showCursor="false" :typeSpeed="80" :startDelay="1000" @onComplete="showMain = true">
         <h2 class="typing medium-text"></h2>
       </vue-typed-js>
       <transition name="fade">
